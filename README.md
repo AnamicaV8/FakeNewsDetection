@@ -1,6 +1,5 @@
-# FakeNewsDetection
+# FakeNews Detection & Classification
 Detecting and classifying fake news using advanced deep learning models.
-# Fake News Detection and Classification
 
 ## Introduction
 Fake news has become a global issue, influencing public opinion, polarizing society, and disrupting economic stability. This project leverages deep learning to identify and classify fake news effectively.
